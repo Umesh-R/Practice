@@ -1,0 +1,38 @@
+div{
+	border:20px solid #bdc3c7;
+	padding: 10px;
+	margin: 50px 20% 50px 20%;
+}
+ 
+
+#Date{
+ font-family:Sofia;
+ color:#2498db;
+ letter-spacing: .2em;
+ text-transform: uppercase;
+}
+
+p{
+	font-family: Stylish;
+}
+h1{
+	font-family: Stylish;
+}
+h1:hover{
+	color: #ad53af;
+}
+#Date:hover{
+	color: #7df35f;
+
+}
+.firstPara{
+	border-left: 5px solid  #bdc3c7;
+	padding: 5px;
+	
+}
+.lastPara{
+	border-bottom: 2px solid #ffd1ff;
+	padding-bottom: 15px;
+	/*border-spacing: 500px;*/
+	border-bottom
+}
